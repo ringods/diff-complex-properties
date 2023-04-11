@@ -1,0 +1,3 @@
+name: diff-complex-properties
+runtime: nodejs
+description: Reproducing a diff error for refreshed complex properties
